@@ -1,9 +1,12 @@
 /* Universal selector - formatting that pertains to entire document, unless specified otherwise */
+
 * {
     box-sizing: border-box;
     margin: 0;
 }
+
 /* Element selectors: pertain to most of the formatting in this document, seperated by clearly defined and semanticly labeled divisions */
+
 body {
     background-color: #d9dcd6;
 }
@@ -82,7 +85,9 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
 /* Class selectors: pertain to the three images floating in southern hemisphere of webpage */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,7 +98,9 @@ footer h2 {
     margin-left: 25px;
     max-height: 200px;
 }
+
 /* Id selectors: each pertain to one specific item on the page */
+
 #seo {
     color: #d9dcd6;
 }
