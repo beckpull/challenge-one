@@ -14,4 +14,4 @@ Check us out [here](http://beckpull.github.io/horiseon-optimization) - and use C
 
 #### Contributors:
 * Horiseon </br></br>
-* **Rebecca Feltman:** check me out on [GitHub](www.github.com/beckpull) or shoot me an [email](mailto:beckpull@icloud.com) if you have any website needs!
+* **Rebecca Feltman:** check me out on [GitHub](https://github.com/beckpull) or shoot me an [email](mailto:beckpull@icloud.com) if you have any website needs!
