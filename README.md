@@ -2,36 +2,16 @@
 This project consisted of refactoring and reorganizing the codebase to this webpage in order to make it more accessible and to optimize search engine compatibilty.
 
 ## User Story
-AS A marketing agency</br>
-I WANT a codebase that follows accessibility standards</br>
-SO THAT our own site is optimized for search engines</br>
-## Acceptance Criteria
+As a marketing agency, we wanted to create a codebase that is optimized for search engines and accessibilty features - and then, we wanted to share it with the world! Horiseon aims to ease the burden of refactoring and reorganizing codebases and provide our customers with a clean, polished result; without changing the appearance/functionality that currently exists.
 
-GIVEN a webpage meets accessibility standards</br>
-WHEN I view the source code</br>
-THEN I find semantic HTML elements</br>
-WHEN I view the structure of the HTML elements</br>
-THEN I find that the elements follow a logical structure independent of styling and positioning</br>
-WHEN I view the icon and image elements</br>
-THEN I find accessible alt attributes</br>
-WHEN I view the heading attributes</br>
-THEN they fall in sequential order</br>
-WHEN I view the title element</br>
-THEN I find a concise, descriptive title</br>
-GIVEN a webpage meets accessibility standards</br>
-WHEN I view the source code</br>
-THEN I find semantic HTML elements</br>
-WHEN I view the structure of the HTML elements</br>
-THEN I find that the elements follow a logical structure independent of styling and positioning</br>
-WHEN I view the icon and image elements</br>
-THEN I find accessible alt attributes</br>
-WHEN I view the heading attributes</br>
-THEN they fall in sequential order</br>
-WHEN I view the title element</br>
-THEN I find a concise, descriptive title</br>
+## Technologies 
+This website utlizes semantic HTML structures combined with CSS styling in order to create a beautiful landing page for those looking to optimize their own websites in a similar fashion!
 
-## Mock up - before editing HTML/CSS
-![This was the webpage displayed with the starter code provided](./assets/images/mock-up.png)
+## Landing Page Preview
+Check us out [here](http://beckpull.github.io/horiseon-optimization) - and use Chrome DevTools to see our semantics! If you like what you see - reach out for more! 
 
-## Website Preview
 ![This is the website with refactored and reorganized code](./assets/images/website.jpg)
+
+#### Contributors:
+* Horiseon </br></br>
+* **Rebecca Feltman:** check me out on [GitHub](www.github.com/beckpull) or shoot me an [email](mailto:beckpull@icloud.com) if you have any website needs!
