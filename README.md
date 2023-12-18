@@ -34,4 +34,4 @@ THEN I find a concise, descriptive title</br>
 ![This was the webpage displayed with the starter code provided](./assets/images/mock-up.png)
 
 ## Website Preview
-
+![This is the website with refactored and reorganized code](./assets/images/website.jpg)
